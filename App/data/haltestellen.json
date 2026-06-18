@@ -77,7 +77,7 @@
     },
     {
       "nummer": 16,
-      "name": "Luminara",
+      "name": "Luminara Hauptbahnhof",
       "region": "Luminia"
     },
     {
@@ -149,6 +149,11 @@
       "nummer": 30,
       "name": "Schwamm Stadt Markt",
       "region": "Schwammi Tal"
-    }
+    },
+    {
+      "nummer": 31,
+      "name": "Luminara Ost",
+      "region": "Lumina"
+    },
   ]
 }

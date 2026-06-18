@@ -144,6 +144,11 @@
       "nummer": 29,
       "name": "Blauquai, Pauper (im Dorf)",
       "region": "Hong Schwamm Kong"
-    }
+    },
+    {
+      "nummer": 30,
+      "name": "Schwamm Stadt Markt",
+      "region": "Schwammi Tal"
+    },
   ]
 }

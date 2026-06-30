@@ -154,6 +154,11 @@
       "nummer": 31,
       "name": "Luminara Ost",
       "region": "Lumina"
+    },
+    {
+      "nummer": 32,
+      "name": "Teer Towers Bahnhof",
+      "region": "Schwami Tal"
     }
   ]
 }

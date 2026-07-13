@@ -159,6 +159,11 @@
       "nummer": 32,
       "name": "Teer Towers Bahnhof",
       "region": "Schwami Tal"
+    },
+    {
+      "nummer": 33,
+      "name": "Könige Burg Hafen Ost",
+      "region": "Könige"
     }
   ]
 }
